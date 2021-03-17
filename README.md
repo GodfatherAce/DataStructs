@@ -1,6 +1,6 @@
 # DataStructs
 
-** ## This repository holds the material for Data Structures comprising of Graphs, Trees and Searching Terminologies **
+**##This repository holds the material for Data Structures comprising of Graphs, Trees and Searching Terminologies**
 
 
 
